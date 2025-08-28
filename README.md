@@ -1,3 +1,3 @@
 "# Cse423_lab1" 
 
-In this lab assignment I create a scenario called Building a House in Rainfall, and in my second task I create a Building The Amazing Box.
+In this lab assignment I created a scenario which is called Building a House in Rainfall, and in the second task I created a Building with The Amazing Box.
